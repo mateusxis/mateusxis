@@ -27,3 +27,8 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📑 Certification
+These are some certifications that I am qualified for
+<img src="./public/information-security.png" alt="EXIN Information Security Foundation based on ISO/IEC 27001" width="150"/>
+<img src="./public/data-lgpd.png" alt="EXIN Privacy and Data Protection Essentials based on LGPD" width="150"/>
