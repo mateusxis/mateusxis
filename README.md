@@ -30,5 +30,6 @@ These are some of the technologies and tools that I work with:
 
 ## 📑 Certification
 These are some certifications that I am qualified for
+<br>
 <img src="./public/information-security.png" alt="EXIN Information Security Foundation based on ISO/IEC 27001" width="150"/>
 <img src="./public/data-lgpd.png" alt="EXIN Privacy and Data Protection Essentials based on LGPD" width="150"/>
