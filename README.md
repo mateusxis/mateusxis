@@ -30,6 +30,8 @@ These are some of the technologies and tools that I work with:
 
 ![Qoda GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusxis&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusxis&show_icons=true)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5412318" style='border:none;'></iframe>
+
 ## 📑 Certification
 These are some certifications that I am qualified for
 <br>
